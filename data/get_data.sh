@@ -3,4 +3,4 @@
 
 url='http://deeplearning.net/data/mnist/mnist.pkl.gz'
 
-wget -O ./mnist.pkl.gz ${url}
+/usr/local/bin/wget -O ./mnist.pkl.gz ${url}
